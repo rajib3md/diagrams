@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T18:45:39.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Fev7g6XzRV4EknElNsHj" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T20:25:53.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_Y-qReyKQ-sniB8ydLLA" version="14.0.5" type="github">
   <diagram id="gYCvoo0EHR7N4fp92dDg" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="p0nys47KQPDuE_rY-3M2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p0nys47KQPDuE_rY-3M2-10" target="p0nys47KQPDuE_rY-3M2-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p0nys47KQPDuE_rY-3M2-10" value="Insert the Nam:Price keypire to the dictionary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p0nys47KQPDuE_rY-3M2-10" value="Insert the Name:Price keypire to the dictionary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p0nys47KQPDuE_rY-3M2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p0nys47KQPDuE_rY-3M2-16" target="p0nys47KQPDuE_rY-3M2-21">
